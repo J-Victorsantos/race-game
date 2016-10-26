@@ -1,4 +1,4 @@
-#Jogo de corrida seguindo o tutorial do canal Sentdex.
+#Race game inspired by the tutorial made by Sentdex.
 #J.Victor 24/10/16
 
 import pygame
