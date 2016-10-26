@@ -1,4 +1,4 @@
 # race-game
-My first experience working with PyGame annd cx_Freeze
+My first experience working with PyGame and cx_Freeze
 
 A race game built in PyGame
